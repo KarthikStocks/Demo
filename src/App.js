@@ -6,7 +6,8 @@ import Accordion from "react-bootstrap/Accordion";
 function App() {
   return (
     <div className="App">
-      <div>
+    <h1>This code is added by Karthik on behalf of BRN Infotech Pvt. Ltd.</h1>  
+    <div>
         <Accordion defaultActiveKey="0">
           <Accordion.Item eventKey="0">
             <Accordion.Header>Accordion Item #1</Accordion.Header>
